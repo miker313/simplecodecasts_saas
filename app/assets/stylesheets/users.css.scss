@@ -26,3 +26,10 @@
   background-color: #5bc0de;
   border-color: #46b8da;
 }
+
+.profile-pic {
+  border-radius: 50%;
+  -webkit-box-shadow: 9px 6px 13px 0px rgba(49, 50, 50, 0.48);
+  -moz-box-shadow:    9px 6px 13px 0px rgba(49, 50, 50, 0.48);
+  box-shadow:         9px 6px 13px 0px rgba(49, 50, 50, 0.48);
+}
